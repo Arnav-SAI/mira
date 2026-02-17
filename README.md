@@ -1,5 +1,8 @@
 # Mira
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+
 A modern, Claude code CLI-style terminal application for AI-assisted coding. Built with [Textual](https://textual.textualize.io/) for a beautiful TUI experience and powered by [LangChain](https://langchain.com/) + [LangGraph](https://langchain.com/langgraph) for intelligent agent capabilities.
 
 ![Mira Demo](demo.png)
