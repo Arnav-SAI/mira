@@ -5,7 +5,7 @@
 
 A modern, Claude code CLI-style terminal application for AI-assisted coding. Built with [Textual](https://textual.textualize.io/) for a beautiful TUI experience and powered by [LangChain](https://langchain.com/) + [LangGraph](https://langchain.com/langgraph) for intelligent agent capabilities.
 
-![Mira Demo](demo.png)
+![Mira Demo - AI Agent](demo.png)
 
 ## ✨ Features
 
